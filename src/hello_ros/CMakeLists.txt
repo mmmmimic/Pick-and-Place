@@ -8,8 +8,33 @@ project(hello_ros)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
+  geometry_msgs
   roscpp
   rospy
+  turtlesim
+  std_msgs
+  message_generation
+  tf
+  trajectory_msgs
+  moveit_commander
+)
+add_message_files(
+FILES
+turtle.msg
+)
+
+generate_messages(
+DEPENDENCIES
+std_msgs
+geometry_msgs
+)
+
+catkin_package(
+CATKIN_DEPENDS message_runtime
+)
+
+include_directories(
+${catkin_INCLUDE_DIRS}
 )
 
 ## System dependencies are found with CMake's conventions
@@ -69,7 +94,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate added messages and services with any dependencies listed here
 # generate_messages(
 #   DEPENDENCIES
-#   std_msgs  # Or other packages containing msgs
+#   geometry_msgs
 # )
 
 ################################################
@@ -104,7 +129,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES hello_ros
-#  CATKIN_DEPENDS roscpp rospy
+#  CATKIN_DEPENDS geometry_msgs roscpp rospy turtlesim
 #  DEPENDS system_lib
 )
 

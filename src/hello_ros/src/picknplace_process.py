@@ -91,7 +91,8 @@ for i in range(cube_num):
     bucket_pose=poses[model_num-1]
     bpst=bucket_pose.position
 
-    #1. step2 move to the cube
+    ##1. step2 move to the cube
+    # Bring the arm to the location of the object, minus a certain amount of space
     print'First, move to the above of the cube'
     pose_goal = group.get_current_pose().pose
     pose_goal.orientation=geometry_msgs.msg.Quaternion(*tf_conversions.transformations.quaternion_from_euler(0,-math.pi/2, 0))
