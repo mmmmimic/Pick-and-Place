@@ -1,6 +1,4 @@
 # !/usr/bin/env python
-# This program publishes randomly-generated velocity
-# Messages for turtlesim.
 import rospy
 import sys
 import copy
