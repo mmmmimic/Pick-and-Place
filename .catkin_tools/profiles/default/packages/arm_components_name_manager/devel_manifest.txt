@@ -1,0 +1,6 @@
+convenience-pkgs/arm_components_name_manager
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/share/arm_components_name_manager/cmake/arm_components_name_managerConfig.cmake /home/student/catkin_ws/devel/share/arm_components_name_manager/cmake/arm_components_name_managerConfig.cmake
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/share/arm_components_name_manager/cmake/arm_components_name_managerConfig-version.cmake /home/student/catkin_ws/devel/share/arm_components_name_manager/cmake/arm_components_name_managerConfig-version.cmake
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/lib/libarm_components_name_manager.so /home/student/catkin_ws/devel/lib/libarm_components_name_manager.so
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/lib/pkgconfig/arm_components_name_manager.pc /home/student/catkin_ws/devel/lib/pkgconfig/arm_components_name_manager.pc

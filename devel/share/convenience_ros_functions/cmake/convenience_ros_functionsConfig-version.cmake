@@ -1,0 +1,1 @@
+/home/student/catkin_ws/devel/.private/convenience_ros_functions/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig-version.cmake

@@ -1,0 +1,166 @@
+[35m[1mScanning dependencies of target control_msgs_generate_messages_nodejs[0m
+[  0%] Built target control_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_ros_gencfg[0m
+[  0%] Built target gazebo_ros_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target control_msgs_generate_messages_eus[0m
+[  0%] Built target control_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target control_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target control_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target control_msgs_generate_messages_py[0m
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target control_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target control_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target control_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_joint_state_client[0m
+[35m[1mScanning dependencies of target gazebo_joint_control[0m
+[35m[1mScanning dependencies of target gazebo_joint_trajectory_server[0m
+[35m[1mScanning dependencies of target gazebo_joint_state_publisher[0m
+[  7%] [32mBuilding CXX object CMakeFiles/gazebo_joint_state_client.dir/gz2_support/src/JointControllerNewImpl.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/gazebo_joint_state_client.dir/src/JointController.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/gazebo_joint_state_publisher.dir/src/GazeboJointStatePublisher.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/gazebo_joint_trajectory_server.dir/src/GazeboJointTrajectoryServer.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/gazebo_joint_control.dir/src/JointController.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/gazebo_joint_state_client.dir/src/GazeboJointStateClient.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/gazebo_joint_control.dir/gz2_support/src/JointControllerNewImpl.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/gazebo_joint_control.dir/src/GazeboJointControl.cpp.o[0m
+[ 64%] [32m[1mLinking CXX shared library /home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_trajectory_server.so[0m
+[ 71%] [32m[1mLinking CXX shared library /home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_state_publisher.so[0m
+[ 71%] Built target gazebo_joint_trajectory_server
+[ 78%] [32mBuilding CXX object CMakeFiles/gazebo_joint_control.dir/src/GazeboJointControlLocalImpl.cpp.o[0m
+[ 78%] Built target gazebo_joint_state_publisher
+[ 85%] [32mBuilding CXX object CMakeFiles/gazebo_joint_control.dir/src/GazeboJointControlLocalImplRegistration.cpp.o[0m
+[ 92%] [32m[1mLinking CXX shared library /home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_state_client.so[0m
+[ 92%] Built target gazebo_joint_state_client
+[100%] [32m[1mLinking CXX shared library /home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_control.so[0m
+[100%] Built target gazebo_joint_control

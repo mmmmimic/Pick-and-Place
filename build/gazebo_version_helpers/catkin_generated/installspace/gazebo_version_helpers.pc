@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: gazebo_version_helpers
+Description: Description of gazebo_version_helpers
+Version: 0.0.0
+Cflags: -I/home/student/catkin_ws/install/include
+Libs: -L/home/student/catkin_ws/install/lib -lgazebo_version_helpers
+Requires: gazebo_ros roscpp

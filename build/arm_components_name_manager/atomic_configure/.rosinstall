@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/catkin_ws/devel/.private/arm_components_name_manager/setup.sh

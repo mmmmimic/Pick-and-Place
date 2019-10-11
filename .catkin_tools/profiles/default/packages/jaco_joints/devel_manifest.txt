@@ -1,0 +1,7 @@
+jaco-arm-pkgs/jaco_arm/jaco_joints
+/home/student/catkin_ws/devel/.private/jaco_joints/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/jaco_joints/share/jaco_joints/cmake/jaco_jointsConfig.cmake /home/student/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig.cmake
+/home/student/catkin_ws/devel/.private/jaco_joints/share/jaco_joints/cmake/jaco_jointsConfig-version.cmake /home/student/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig-version.cmake
+/home/student/catkin_ws/devel/.private/jaco_joints/lib/libjaco_trajectory_action_server.so /home/student/catkin_ws/devel/lib/libjaco_trajectory_action_server.so
+/home/student/catkin_ws/devel/.private/jaco_joints/lib/libjaco_joints.so /home/student/catkin_ws/devel/lib/libjaco_joints.so
+/home/student/catkin_ws/devel/.private/jaco_joints/lib/pkgconfig/jaco_joints.pc /home/student/catkin_ws/devel/lib/pkgconfig/jaco_joints.pc

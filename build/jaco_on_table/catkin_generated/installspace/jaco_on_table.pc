@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: jaco_on_table
+Description: Description of jaco_on_table
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/catkin_ws/install/lib 
+Requires: 

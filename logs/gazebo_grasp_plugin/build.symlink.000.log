@@ -1,0 +1,4 @@
+Symlinking /home/student/catkin_ws/devel/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig.cmake
+Symlinking /home/student/catkin_ws/devel/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_grasp_fix.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_grasp_plugin.pc

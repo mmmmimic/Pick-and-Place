@@ -1,0 +1,7 @@
+Symlinking /home/student/catkin_ws/devel/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_joint_state_publisher.so
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_joint_state_client.so
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_joint_control.so
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_joint_trajectory_server.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_joint_control.pc

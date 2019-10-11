@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/catkin_ws/src/convenience-pkgs/baselib_binding/include/baselib_binding/SharedPtr.h
+boost/shared_ptr.hpp
+-
+memory
+-
+
+/home/student/catkin_ws/src/convenience-pkgs/logger_binding/include/logger_binding/LogBinding.h
+string
+-
+iostream
+-
+sstream
+-
+baselib_binding/SharedPtr.h
+-
+
+/home/student/catkin_ws/src/convenience-pkgs/logger_binding/src/LogBinding.cpp
+logger_binding/LogBinding.h
+-
+baselib_binding/SharedPtr.h
+-
+string
+-
+

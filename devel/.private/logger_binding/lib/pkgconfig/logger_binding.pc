@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel/.private/logger_binding
+
+Name: logger_binding
+Description: Description of logger_binding
+Version: 1.0.0
+Cflags: -I/home/student/catkin_ws/src/convenience-pkgs/logger_binding/include -I/home/student/catkin_ws/src/convenience-pkgs/baselib_binding/include
+Libs: -L/home/student/catkin_ws/devel/.private/logger_binding/lib -llogger_binding_c++11
+Requires: roscpp

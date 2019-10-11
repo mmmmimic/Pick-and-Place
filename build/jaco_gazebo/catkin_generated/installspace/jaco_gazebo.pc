@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: jaco_gazebo
+Description: Description of jaco_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/catkin_ws/install/lib 
+Requires: jaco_joints

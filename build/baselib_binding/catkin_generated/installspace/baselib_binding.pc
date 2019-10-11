@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: baselib_binding
+Description: Description of baselib_binding
+Version: 1.0.0
+Cflags: -I/home/student/catkin_ws/install/include
+Libs: -L/home/student/catkin_ws/install/lib 
+Requires: 

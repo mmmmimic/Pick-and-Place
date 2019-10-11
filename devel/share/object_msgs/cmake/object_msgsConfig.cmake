@@ -1,0 +1,1 @@
+/home/student/catkin_ws/devel/.private/object_msgs/share/object_msgs/cmake/object_msgsConfig.cmake

@@ -1,0 +1,6 @@
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/share/jaco_gazebo/cmake/jaco_gazeboConfig-version.cmake, /home/student/catkin_ws/devel/share/jaco_gazebo/cmake/jaco_gazeboConfig-version.cmake)
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/share/jaco_gazebo/cmake/jaco_gazeboConfig.cmake, /home/student/catkin_ws/devel/share/jaco_gazebo/cmake/jaco_gazeboConfig.cmake)
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/lib/pkgconfig/jaco_gazebo.pc, /home/student/catkin_ws/devel/lib/pkgconfig/jaco_gazebo.pc)
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/lib/jaco_gazebo/test_joint_trajectory_client, /home/student/catkin_ws/devel/lib/jaco_gazebo/test_joint_trajectory_client)
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/lib/jaco_gazebo/test_set_joint_state_publisher_vel, /home/student/catkin_ws/devel/lib/jaco_gazebo/test_set_joint_state_publisher_vel)
+Linked: (/home/student/catkin_ws/devel/.private/jaco_gazebo/lib/jaco_gazebo/test_set_joint_state_publisher_pos, /home/student/catkin_ws/devel/lib/jaco_gazebo/test_set_joint_state_publisher_pos)

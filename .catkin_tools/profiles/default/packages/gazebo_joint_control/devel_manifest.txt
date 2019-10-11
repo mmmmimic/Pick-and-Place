@@ -1,0 +1,9 @@
+joint-control-pkgs/gazebo_joint_control
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig-version.cmake /home/student/catkin_ws/devel/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig-version.cmake
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig.cmake /home/student/catkin_ws/devel/share/gazebo_joint_control/cmake/gazebo_joint_controlConfig.cmake
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_state_publisher.so /home/student/catkin_ws/devel/lib/libgazebo_joint_state_publisher.so
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_state_client.so /home/student/catkin_ws/devel/lib/libgazebo_joint_state_client.so
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_control.so /home/student/catkin_ws/devel/lib/libgazebo_joint_control.so
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/libgazebo_joint_trajectory_server.so /home/student/catkin_ws/devel/lib/libgazebo_joint_trajectory_server.so
+/home/student/catkin_ws/devel/.private/gazebo_joint_control/lib/pkgconfig/gazebo_joint_control.pc /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_joint_control.pc

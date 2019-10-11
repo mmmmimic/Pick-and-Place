@@ -1,0 +1,5 @@
+hello_ros
+/home/student/catkin_ws/devel/.private/hello_ros/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/hello_ros/share/hello_ros/cmake/hello_rosConfig-version.cmake /home/student/catkin_ws/devel/share/hello_ros/cmake/hello_rosConfig-version.cmake
+/home/student/catkin_ws/devel/.private/hello_ros/share/hello_ros/cmake/hello_rosConfig.cmake /home/student/catkin_ws/devel/share/hello_ros/cmake/hello_rosConfig.cmake
+/home/student/catkin_ws/devel/.private/hello_ros/lib/pkgconfig/hello_ros.pc /home/student/catkin_ws/devel/lib/pkgconfig/hello_ros.pc

@@ -1,0 +1,6 @@
+Symlinking /home/student/catkin_ws/devel/share/gazebo_state_plugins/cmake/gazebo_state_pluginsConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/share/gazebo_state_plugins/cmake/gazebo_state_pluginsConfig.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_map_publisher.so
+Symlinking /home/student/catkin_ws/devel/lib/libgazebo_object_info.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_state_plugins.pc
+Symlinking /home/student/catkin_ws/devel/lib/gazebo_state_plugins/gazebo_request_object_info

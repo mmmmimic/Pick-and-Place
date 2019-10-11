@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel/.private/jaco_description
+
+Name: jaco_description
+Description: Description of jaco_description
+Version: 0.0.0
+Cflags: -I/home/student/catkin_ws/src/jaco-arm-pkgs/jaco_arm/jaco_description/urdf
+Libs: -L/home/student/catkin_ws/devel/.private/jaco_description/lib 
+Requires: xacro

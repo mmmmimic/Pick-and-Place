@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel/.private/gazebo_world_plugin_loader
+
+Name: gazebo_world_plugin_loader
+Description: Description of gazebo_world_plugin_loader
+Version: 1.0.2
+Cflags: -I/home/student/catkin_ws/src/gazebo-pkgs/gazebo_world_plugin_loader/include
+Libs: -L/home/student/catkin_ws/devel/.private/gazebo_world_plugin_loader/lib -lgazebo_world_plugin_loader
+Requires: roscpp gazebo_ros gazebo_ros

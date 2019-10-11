@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/catkin_ws/devel/.private/convenience_math_functions/setup.sh

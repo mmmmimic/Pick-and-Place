@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel/.private/baselib_binding
+
+Name: baselib_binding
+Description: Description of baselib_binding
+Version: 1.0.0
+Cflags: -I/home/student/catkin_ws/src/convenience-pkgs/baselib_binding/include
+Libs: -L/home/student/catkin_ws/devel/.private/baselib_binding/lib 
+Requires: 

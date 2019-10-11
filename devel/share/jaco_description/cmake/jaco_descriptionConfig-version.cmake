@@ -1,0 +1,1 @@
+/home/student/catkin_ws/devel/.private/jaco_description/share/jaco_description/cmake/jaco_descriptionConfig-version.cmake

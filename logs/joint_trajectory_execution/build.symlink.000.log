@@ -1,0 +1,4 @@
+Symlinking /home/student/catkin_ws/devel/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libtrajectory_action_server.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/joint_trajectory_execution.pc

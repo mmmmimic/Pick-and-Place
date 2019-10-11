@@ -1,0 +1,7 @@
+convenience-pkgs/logger_binding
+/home/student/catkin_ws/devel/.private/logger_binding/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/logger_binding/share/logger_binding/cmake/logger_bindingConfig.cmake /home/student/catkin_ws/devel/share/logger_binding/cmake/logger_bindingConfig.cmake
+/home/student/catkin_ws/devel/.private/logger_binding/share/logger_binding/cmake/logger_bindingConfig-version.cmake /home/student/catkin_ws/devel/share/logger_binding/cmake/logger_bindingConfig-version.cmake
+/home/student/catkin_ws/devel/.private/logger_binding/lib/liblogger_binding_boost.so /home/student/catkin_ws/devel/lib/liblogger_binding_boost.so
+/home/student/catkin_ws/devel/.private/logger_binding/lib/liblogger_binding_c++11.so /home/student/catkin_ws/devel/lib/liblogger_binding_c++11.so
+/home/student/catkin_ws/devel/.private/logger_binding/lib/pkgconfig/logger_binding.pc /home/student/catkin_ws/devel/lib/pkgconfig/logger_binding.pc

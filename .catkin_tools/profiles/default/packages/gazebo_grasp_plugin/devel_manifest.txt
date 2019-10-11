@@ -1,0 +1,6 @@
+gazebo-pkgs/gazebo_grasp_plugin
+/home/student/catkin_ws/devel/.private/gazebo_grasp_plugin/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/gazebo_grasp_plugin/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig.cmake /home/student/catkin_ws/devel/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig.cmake
+/home/student/catkin_ws/devel/.private/gazebo_grasp_plugin/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig-version.cmake /home/student/catkin_ws/devel/share/gazebo_grasp_plugin/cmake/gazebo_grasp_pluginConfig-version.cmake
+/home/student/catkin_ws/devel/.private/gazebo_grasp_plugin/lib/libgazebo_grasp_fix.so /home/student/catkin_ws/devel/lib/libgazebo_grasp_fix.so
+/home/student/catkin_ws/devel/.private/gazebo_grasp_plugin/lib/pkgconfig/gazebo_grasp_plugin.pc /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_grasp_plugin.pc

@@ -1,0 +1,6 @@
+gazebo-pkgs/gazebo_version_helpers
+/home/student/catkin_ws/devel/.private/gazebo_version_helpers/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/gazebo_version_helpers/share/gazebo_version_helpers/cmake/gazebo_version_helpersConfig.cmake /home/student/catkin_ws/devel/share/gazebo_version_helpers/cmake/gazebo_version_helpersConfig.cmake
+/home/student/catkin_ws/devel/.private/gazebo_version_helpers/share/gazebo_version_helpers/cmake/gazebo_version_helpersConfig-version.cmake /home/student/catkin_ws/devel/share/gazebo_version_helpers/cmake/gazebo_version_helpersConfig-version.cmake
+/home/student/catkin_ws/devel/.private/gazebo_version_helpers/lib/libgazebo_version_helpers.so /home/student/catkin_ws/devel/lib/libgazebo_version_helpers.so
+/home/student/catkin_ws/devel/.private/gazebo_version_helpers/lib/pkgconfig/gazebo_version_helpers.pc /home/student/catkin_ws/devel/lib/pkgconfig/gazebo_version_helpers.pc

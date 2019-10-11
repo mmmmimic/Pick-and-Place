@@ -1,0 +1,4 @@
+Symlinking /home/student/catkin_ws/devel/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/share/convenience_ros_functions/cmake/convenience_ros_functionsConfig.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libconvenience_ros_functions.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/convenience_ros_functions.pc

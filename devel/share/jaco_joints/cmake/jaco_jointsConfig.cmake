@@ -1,0 +1,1 @@
+/home/student/catkin_ws/devel/.private/jaco_joints/share/jaco_joints/cmake/jaco_jointsConfig.cmake

@@ -1,0 +1,5 @@
+Symlinking /home/student/catkin_ws/devel/share/logger_binding/cmake/logger_bindingConfig.cmake
+Symlinking /home/student/catkin_ws/devel/share/logger_binding/cmake/logger_bindingConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/lib/liblogger_binding_boost.so
+Symlinking /home/student/catkin_ws/devel/lib/liblogger_binding_c++11.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/logger_binding.pc

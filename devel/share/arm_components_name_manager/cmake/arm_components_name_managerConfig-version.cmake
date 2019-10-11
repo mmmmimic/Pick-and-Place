@@ -1,0 +1,1 @@
+/home/student/catkin_ws/devel/.private/arm_components_name_manager/share/arm_components_name_manager/cmake/arm_components_name_managerConfig-version.cmake

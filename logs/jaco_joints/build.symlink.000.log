@@ -1,0 +1,5 @@
+Symlinking /home/student/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig.cmake
+Symlinking /home/student/catkin_ws/devel/share/jaco_joints/cmake/jaco_jointsConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libjaco_trajectory_action_server.so
+Symlinking /home/student/catkin_ws/devel/lib/libjaco_joints.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/jaco_joints.pc

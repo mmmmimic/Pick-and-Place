@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: object_msgs_tools
+Description: Description of object_msgs_tools
+Version: 1.0.0
+Cflags: -I/home/student/catkin_ws/install/include
+Libs: -L/home/student/catkin_ws/install/lib -lobject_msgs_tools
+Requires: object_msgs roscpp eigen_conversions tf

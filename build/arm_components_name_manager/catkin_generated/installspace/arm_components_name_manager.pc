@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: arm_components_name_manager
+Description: Description of arm_components_name_manager
+Version: 1.0.0
+Cflags: -I/home/student/catkin_ws/install/include
+Libs: -L/home/student/catkin_ws/install/lib -larm_components_name_manager
+Requires: roscpp sensor_msgs convenience_math_functions baselib_binding

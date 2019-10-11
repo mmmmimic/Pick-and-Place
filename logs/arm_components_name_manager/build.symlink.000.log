@@ -1,0 +1,4 @@
+Symlinking /home/student/catkin_ws/devel/share/arm_components_name_manager/cmake/arm_components_name_managerConfig.cmake
+Symlinking /home/student/catkin_ws/devel/share/arm_components_name_manager/cmake/arm_components_name_managerConfig-version.cmake
+Symlinking /home/student/catkin_ws/devel/lib/libarm_components_name_manager.so
+Symlinking /home/student/catkin_ws/devel/lib/pkgconfig/arm_components_name_manager.pc

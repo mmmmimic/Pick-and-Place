@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: jaco_on_table_moveit
+Description: Description of jaco_on_table_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/student/catkin_ws/install/lib 
+Requires: 

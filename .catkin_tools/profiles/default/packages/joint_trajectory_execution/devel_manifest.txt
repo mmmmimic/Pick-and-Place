@@ -1,0 +1,6 @@
+joint-control-pkgs/joint_trajectory_execution
+/home/student/catkin_ws/devel/.private/joint_trajectory_execution/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/joint_trajectory_execution/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig-version.cmake /home/student/catkin_ws/devel/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig-version.cmake
+/home/student/catkin_ws/devel/.private/joint_trajectory_execution/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig.cmake /home/student/catkin_ws/devel/share/joint_trajectory_execution/cmake/joint_trajectory_executionConfig.cmake
+/home/student/catkin_ws/devel/.private/joint_trajectory_execution/lib/libtrajectory_action_server.so /home/student/catkin_ws/devel/lib/libtrajectory_action_server.so
+/home/student/catkin_ws/devel/.private/joint_trajectory_execution/lib/pkgconfig/joint_trajectory_execution.pc /home/student/catkin_ws/devel/lib/pkgconfig/joint_trajectory_execution.pc
