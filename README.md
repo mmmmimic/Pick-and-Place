@@ -1,2 +1,1 @@
-# ROS_Groupwork
-A gathering of exercises in 31391 Software Frameworks of Autonomous Systems
+# Pick and Place: mini project in 31391 Software Framework for Autonomous Robots
